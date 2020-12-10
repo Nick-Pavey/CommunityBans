@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Join The Beta!</title>
+    <meta
+      name="description"
+      content="Hosted environment testing of CommunityBans bot"
+    />
+    <link
+      id="favicon"
+      rel="icon"
+      href="https://static-cdn.jtvnw.net/jtv_user_pictures/d2fd4588-961b-4b85-9e4c-3e8fe425bf44-profile_image-300x300.png"
+      type="image/x-icon"
+    />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="animations.css" />
+  </head>
+
+  <body class="fade-in-2">
+    <div class="center">
+      <h1>
+        Join the Beta
+      </h1>
+      <form action="/success.html" class="center">
+        <label for="fname">Your Twitch UserName:</label><br />
+        <input
+          class="center"
+          type="text"
+          id="username"
+          onkeydown="formsubmit(event)"
+        /><br />
+
+        <label for="cname">Community Code:</label><br />
+        <input
+          class="center"
+          type="text"
+          id="communityid"
+          value="t35t1n6"
+          readonly
+        />
+        <br /><br />
+      </form>
+      <br />
+      <div class="center">
+        <button onclick="addUser()" class="submit-button center">Submit</button>
+      </div>
+    </div>
+  </body>
+
+  <footer id="footer" class="fade-in-15">
+    Developed by StickWiddit
+    <a href="mailto:stickwiddithd@gmail.com">Email</a>
+    <a href="https://twitter.com/StickWiddit">Twitter</a>
+    <a href="https://www.twitch.tv/stickwiddit">Twitch</a>
+  </footer>
+
+  <div id="loginModal" class="modal">
+    <div class="modal-content">
+      <p class="center">Enter Beta Access Code</p>
+      <br />
+      <input
+        id="betaCode"
+        class="center"
+        type="text"
+        onkeydown="modalsubmit(event)"
+      />
+      <br />
+      <br />
+      <div class="center">
+        <button onclick="checkPass()" class="submit-button center">
+          Submit
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="loadModal" class="modal fade-in">
+    <h1 class="center">
+      Working...
+    </h1>
+  </div>
+  
+</html>
+
+<script>
+  window.onload = function() {
+    modal.style.display = "block";
+    updateActive();
+  };
+
+  var modal = document.getElementById("loginModal");
+  var loader = document.getElementById("loadModal");
+  var date = new Date();
+
+  function checkPass() {
+    var pass = document.getElementById("betaCode").value;
+    var base = "cbbeta";
+    var betacode = (base + date.getDate()).toString();
+    if (pass == betacode) {
+      console.log("accepted");
+      modal.style.display = "none";
+      return true;
+    } else {
+      document.getElementById("betaCode").value = "";
+    }
+    return false;
+  }
+
+  function modalsubmit(ele) {
+    if (ele.keyCode === 13) {
+      if (checkPass()) {
+        modal.style.display = "none";
+      }
+    }
+  }
+  function formsubmit(ele) {
+    if (ele.keyCode === 13) {
+      if (addUser()) {
+      }
+    }
+  }
+
+ function addUser() {
+    var username = document.getElementById("username").value;
+    var communityId = document.getElementById("communityid").value;
+
+    if (alreadyActive(username)) {
+      alert(username + " is already in a community.");
+    } else if (username === "") {
+      alert("Enter your twitch username.");
+    } else {
+      ajaxPUT(username, communityId);
+      loader.style.display = "block";
+      setTimeout(() => {
+        if (alreadyActive(username)) {
+          console.log("inside check channels");
+          Success();
+        }
+      }, 3000);
+    }
+  }
+
+  function alreadyActive(username) {
+    updateActive();
+    if (activeChnls.includes(username.toUpperCase())) {
+      return true;
+    }
+    return false;
+  }
+
+  function Success() {
+    window.location.href = "/success.html";
+  }
+
+  var activeChnls = [];
+  function updateActive() {
+    $.getJSON("https://communitybans.glitch.me/active", function(data) {
+      activeChnls = [];
+      for (var i in data) {
+        activeChnls.push(data[i].toUpperCase());
+      }
+    });
+    return true;
+  }
+
+  function ajaxPUT(username, communityId) {
+    console.log("Add " + username + " To " + communityId);
+    $.ajax({
+      url:
+        "https://communitybansapi.glitch.me/adduser?userId=" +
+        username +
+        "&communityId=" +
+        communityId,
+      type: "PUT"
+    }).catch(function(err) {
+      console.log(err);
+    });
+    updateActive();
+    return;
+  }
+</script>

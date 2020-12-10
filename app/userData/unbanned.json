@@ -1,0 +1,67 @@
+{
+  "unbanned": [
+    {
+      "username": "test",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "time": "Thu Sep 24 2020 03:09:19 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "Floqu",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "time": "Fri Sep 25 2020 14:58:11 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "testingg",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "time": "Wed Oct 14 2020 00:58:29 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "testingg",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "time": "Wed Oct 14 2020 00:59:26 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "testingg",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "time": "Wed Oct 14 2020 01:33:42 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "test",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "time": "Fri Oct 16 2020 02:23:01 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "test",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "time": "Fri Oct 16 2020 02:30:10 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "test",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "time": "Fri Oct 16 2020 02:32:39 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "egirlbriii",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "time": "Sat Nov 28 2020 17:52:48 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    }
+  ]
+}

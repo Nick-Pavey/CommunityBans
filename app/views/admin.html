@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CommunityBans Admin</title>
+    <meta name="description" content="Hosted environment testing of CommunityBans bot" />
+    <link id="favicon" rel="icon" href="https://static-cdn.jtvnw.net/jtv_user_pictures/d2fd4588-961b-4b85-9e4c-3e8fe425bf44-profile_image-300x300.png" type="image/x-icon" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="main.css"/>
+    <link rel="stylesheet" href="animations.css" />
+
+  </head>
+  <header>
+  </header>
+  <body>
+    <div>
+      <h1>
+        placeholder admin page
+      </h1>
+    </div>
+  </body>
+</html>
+
+<script>
+  window.onload = function() {
+  //yuh
+  };
+  
+  $.getJSON('https://communitybansapi.glitch.me/users', function(data) {
+  console.log(data);
+  var text = `${data}`
+  text = text.replace(/,/g, ', ');
+  text = text.replace("stickwiddit,", '');
+  $(".channels").html(text);
+})
+  
+</script>
+

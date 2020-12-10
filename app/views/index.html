@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CommunityBans</title>
+    <meta
+      name="description"
+      content="Hosted environment testing of CommunityBans bot"
+    />
+    <link
+      id="favicon"
+      rel="icon"
+      href="https://static-cdn.jtvnw.net/jtv_user_pictures/d2fd4588-961b-4b85-9e4c-3e8fe425bf44-profile_image-300x300.png"
+      type="image/x-icon"
+    />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="speechbubble.css" />
+    <link rel="stylesheet" href="animations.css" />
+  </head>
+
+  <!--  
+  <header>
+    <ul>
+      <li><a href="beta.html">Beta</a></li>
+      <li><a href="commands.html">Commands</a></li>
+    </ul>
+  </header>
+-->
+  <body class="fade-in-2">
+    <div>
+      <button id="twitchbtn" class="button-twitch">
+        <a
+          href="https://api.twitch.tv/kraken/oauth2/authorize?response_type=code&client_id=bi86xd8z5x2o2rmjofx8ngrixtndgg&redirect_uri=https://communitybans.glitch.me&response_type=code&scope=user_read"
+          >Login With Twitch!</a
+        >
+      </button>
+      <div class="speech-bubble">Currently doesn't do anything! :)</div>
+    </div>
+
+    <div>
+      <h1>
+        CommunityBans Bot is Online!
+      </h1>
+      <a href="https://www.twitch.tv/communitybans/about" class="link"
+        >Read The Twitch "About" Page!</a
+      >
+      <p>
+        In the future this page will provide some content that will allow you to
+        see what the bot is doing in the background.
+      </p>
+      <p>
+        If you are seeing this page it means the bot is running in the
+        background and prvoviding it's services to the current group of Beta
+        testers' Twitch.tv channels.
+      </p>
+      <p>
+        This bot gives streamers the ability to create and manage a group of
+        like-minded streamers. when they do this, the streamers can have chat
+        bans synced across all of their channels, limiting the amount of
+        repeated actions needed to be taken across multiple channels.
+      </p>
+
+      <a class="link" href="commands.html">Commands</a>
+      <a class="link" href="beta.html">Join the Beta</a>
+
+      <h2>
+        Thank you to our current beta testers!
+      </h2>
+      <div class="card">
+        <code class="channels">&nbsp;retrieving list...</code>
+      </div>
+    </div>
+  </body>
+  <footer class="fade-in-2">
+    Developed by StickWiddit
+    <a href="https://discord.gg/yAHFjC8">Discord</a>
+    <a href="https://twitter.com/StickWiddit">Twitter</a>
+    <a href="https://www.twitch.tv/stickwiddit">Twitch</a>
+    <a href="mailto:stickwiddithd@gmail.com">Email</a>
+  </footer>
+</html>
+
+<script>
+  window.onload = function() {
+    //yuh
+  };
+
+  //TWICH OAUTH SHIT
+  // $(document).ready(function() {
+  //   $.ajax({
+  //   type: "POST",
+  //     url: "https://api.twitch.tv/kraken/channels/mychannel/subscriptions",
+  //     headers: {
+  //       Authorization: "pm4gkk04f8kwjb935xdgxrz7gegceu",
+  //       "Client-ID": "bi86xd8z5x2o2rmjofx8ngrixtndgg"
+  //    },
+  //     success: function(data) {
+  //       console.log(data);
+  //     }
+  //   });
+  // });
+
+  //"https://api.twitch.tv/kraken/oauth2/authorize?response_type=code&client_id=bi86xd8z5x2o2rmjofx8ngrixtndgg&redirect_uri=https://communitybans.glitch.me&response_type=code&scope=user_read"
+
+  //get feed of current channel names
+  $.getJSON("https://communitybansapi.glitch.me/active", function(data) {
+    //console.log(data);
+    var text = `${data}`;
+    text = text.replace(/,/g, ", ");
+    text = text.replace("stickwiddit,", "");
+    $(".channels").html(text);
+  });
+</script>

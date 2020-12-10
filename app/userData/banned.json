@@ -1,0 +1,979 @@
+{
+  "banned": [
+    {
+      "username": "@extraragu",
+      "bannedby": "stickwiddit",
+      "reason": "spam, new account"
+    },
+    {
+      "username": "papiikarout",
+      "bannedby": "ultrahtv",
+      "reason": "weird"
+    },
+    {
+      "username": "squal__1",
+      "bannedby": "ultrahtv",
+      "reason": "weird"
+    },
+    {
+      "username": "paulwalkerisbliz",
+      "bannedby": "ultrahtv",
+      "reason": "weird"
+    },
+    {
+      "username": "spile12345",
+      "bannedby": "ultrahtv",
+      "reason": "spam"
+    },
+    {
+      "username": "jimmyvalmerscox",
+      "bannedby": "ultrahtv",
+      "reason": "spam"
+    },
+    {
+      "username": "rxspyyt_",
+      "bannedby": "ultrahtv",
+      "reason": "spam"
+    },
+    {
+      "username": "@c35d_",
+      "bannedby": "stickwiddit",
+      "reason": "spam",
+      "time": "Thu Jul 16 2020 19:36:53 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "fanaticice3",
+      "bannedby": "ultrahtv",
+      "reason": "sperg",
+      "time": "Sat Jul 18 2020 00:05:26 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "h_man75000",
+      "bannedby": "ultrahtv",
+      "channel": "airotciv_",
+      "reason": "sperg",
+      "time": "Sun Jul 19 2020 22:12:45 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "prometios",
+      "bannedby": "ultrahtv",
+      "channel": "airotciv_",
+      "reason": "sperg",
+      "time": "Mon Jul 20 2020 01:17:36 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "themaskedarab",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Tue Jul 21 2020 12:04:40 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ztlunaa",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "idiot",
+      "time": "Tue Jul 21 2020 14:36:54 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "landonisiconic",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Tue Jul 21 2020 15:00:12 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Badboy4405",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Tue Jul 21 2020 15:00:20 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "@faygo_ltk",
+      "bannedby": "stickwiddit",
+      "channel": "breezyfps",
+      "reason": "self promotion",
+      "time": "Tue Jul 28 2020 23:02:00 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "@HadeLlVE",
+      "bannedby": "stickwiddit",
+      "channel": "ultrahtv",
+      "reason": "self promtion",
+      "time": "Wed Jul 29 2020 13:14:40 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Pixx_r6",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "nerd ,sniping",
+      "time": "Sun Aug 02 2020 16:18:33 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "pixx123456",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "ban evasion,,nerd",
+      "time": "Sun Aug 02 2020 16:32:25 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "tavo_6999",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Sun Aug 09 2020 09:57:30 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "yeet",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "reason": "yeet",
+      "time": "Wed Aug 12 2020 03:03:29 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "@jusky_ttv",
+      "bannedby": "stickwiddit",
+      "channel": "ultrahtv",
+      "reason": "self promotion,spam",
+      "time": "Fri Aug 14 2020 15:55:27 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "jacko_fps",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "spam",
+      "time": "Tue Aug 25 2020 11:15:58 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "d0gsheet",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Wed Aug 26 2020 17:04:21 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "trushimada",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "ban evade",
+      "time": "Fri Aug 28 2020 11:19:42 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "trueshiiiimada",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "ban evade",
+      "time": "Fri Aug 28 2020 11:19:52 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "rosendark_",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "spam",
+      "time": "Fri Aug 28 2020 11:20:06 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "grannysmasher99",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "racist",
+      "time": "Fri Aug 28 2020 13:52:36 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Andetixyt",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "nerd bitch",
+      "time": "Sun Sep 06 2020 09:49:16 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "l_bart0",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "because i,dont,like,him",
+      "time": "Wed Sep 09 2020 11:25:39 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ContingencyR6",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Wed Sep 09 2020 12:42:38 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "bannedby": "stickwiddit",
+      "channel": "notultrah",
+      "time": "Sat Sep 12 2020 22:29:53 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "@WildRcat",
+      "bannedby": "stickwiddit",
+      "channel": "notultrah",
+      "reason": "sperg",
+      "time": "Sat Sep 12 2020 22:30:00 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "@ThePsychOut",
+      "bannedby": "stickwiddit",
+      "channel": "ultrahtv",
+      "reason": "self promotion",
+      "time": "Tue Sep 15 2020 18:52:04 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "sxuceyyy",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Mon Sep 21 2020 11:06:03 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "lil_drumstick22",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Wed Sep 23 2020 06:56:02 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Freak_proto",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sniping",
+      "time": "Wed Sep 23 2020 23:58:13 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "HelioR6S",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Fri Sep 25 2020 09:11:46 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "lt_littytitty",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Fri Sep 25 2020 09:13:28 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Floqu",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "nerd bitch",
+      "time": "Fri Sep 25 2020 14:40:26 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "toxicash_2124",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "gn",
+      "time": "Sun Sep 27 2020 15:24:13 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "urjustsick",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Sun Sep 27 2020 20:45:59 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "kklim19871",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Tue Sep 29 2020 16:21:17 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "simonsammysfriend",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Wed Sep 30 2020 13:54:06 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "b7rgel",
+      "bannedby": "briibtw",
+      "channel": "briibtw",
+      "reason": "sperg bitch",
+      "time": "Wed Sep 30 2020 16:34:44 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "lilpineconee",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg bitch,2",
+      "time": "Wed Sep 30 2020 16:48:27 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "fqgsx600rsrad9",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Thu Oct 01 2020 16:54:49 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Placx",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "nerd bitch",
+      "time": "Sat Oct 03 2020 13:58:43 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ylolpwned12374.",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Oct 05 2020 14:17:44 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "emfishman2074",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Oct 05 2020 14:17:58 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "wrananasamm1395",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Oct 05 2020 14:18:09 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "wrananasamm1395",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Oct 05 2020 14:18:33 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "heclipse2256",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Oct 05 2020 14:18:51 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "zrasd123fgh491",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Oct 05 2020 16:50:12 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "wronaldo11",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Wed Oct 07 2020 14:24:43 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "y123qweasd53",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Wed Oct 07 2020 14:25:00 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "jpaydaybar13",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Wed Oct 07 2020 14:25:13 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "mendigo_pl",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "spam",
+      "time": "Tue Oct 13 2020 17:40:55 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "wdbakugan12301",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Thu Oct 15 2020 15:20:26 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "test",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "reason": "test",
+      "time": "Fri Oct 16 2020 02:23:16 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "test",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "reason": "test",
+      "time": "Fri Oct 16 2020 02:30:02 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "test",
+      "bannedby": "stickwiddit",
+      "channel": "stickwiddit",
+      "reason": "test",
+      "time": "Fri Oct 16 2020 02:30:13 GMT+0000 (UTC)",
+      "community": "D3v3l0pm3nt"
+    },
+    {
+      "username": "Sonic_nltz",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Sat Oct 17 2020 21:15:31 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "BlameAlex",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "nerd bitch",
+      "time": "Tue Oct 20 2020 14:12:17 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "KKriis",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "nerd bitch",
+      "time": "Tue Oct 20 2020 14:25:23 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "pixalt_",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Sat Oct 31 2020 21:21:38 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ynrodrigo200201",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Nov 02 2020 16:50:20 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "xanzz__",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Sun Nov 08 2020 00:52:35 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ttvsweat_iufans",
+      "bannedby": "amslade",
+      "channel": "ultrahtv",
+      "reason": "nerd bitch",
+      "time": "Sun Nov 08 2020 19:26:06 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "hyperfuse",
+      "bannedby": "phantasamalasm",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Mon Nov 09 2020 03:30:39 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "angrycanadien",
+      "bannedby": "phantasamalasm",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Mon Nov 09 2020 03:33:02 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "arthor_savage",
+      "bannedby": "briibtw",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Mon Nov 09 2020 16:16:20 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "fancyfaygoo",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Mon Nov 09 2020 16:53:45 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "burrrbo",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Mon Nov 09 2020 16:54:19 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ajb99jh040",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Tue Nov 10 2020 18:07:32 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "unkindsatsum48",
+      "bannedby": "phantasamalasm",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Thu Nov 12 2020 14:30:53 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "qqnewyork2851",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Fri Nov 13 2020 17:26:49 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "fnnaruto246888",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Tue Nov 17 2020 16:14:16 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "eydragon230",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Wed Nov 18 2020 16:02:42 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ptdalt",
+      "bannedby": "amslade",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Wed Nov 18 2020 16:48:43 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "fbjimenez233",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Wed Nov 18 2020 19:51:08 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "xxfortnitekidxx_________",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg]",
+      "time": "Wed Nov 18 2020 20:02:27 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "xxfortnitekid____",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Wed Nov 18 2020 20:19:41 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "jqkarlmarx169",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "nerd",
+      "time": "Thu Nov 19 2020 17:05:04 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Shapemorningbwy",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "spam",
+      "time": "Thu Nov 19 2020 17:16:41 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Adjustmentcool",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "spam",
+      "time": "Thu Nov 19 2020 17:16:48 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "worthlessKennethmx0",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "spam",
+      "time": "Thu Nov 19 2020 17:17:02 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "twist894",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "spam",
+      "time": "Thu Nov 19 2020 17:17:11 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Nylon_0_0_",
+      "bannedby": "wonderttv",
+      "channel": "littlemoosey",
+      "reason": "Sperg",
+      "time": "Thu Nov 19 2020 17:40:22 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "waterbluefwe",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Thu Nov 19 2020 20:48:37 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "mouthiis",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spam",
+      "time": "Thu Nov 19 2020 20:48:43 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Coughrespect94",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spam",
+      "time": "Thu Nov 19 2020 20:50:06 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "xenophobicFeathermY",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spam",
+      "time": "Thu Nov 19 2020 20:50:26 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "vntirano1981",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "nerd",
+      "time": "Wed Nov 25 2020 15:41:21 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "iujaffar9403",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "nerd",
+      "time": "Wed Nov 25 2020 15:41:38 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "glizzyganache",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg",
+      "time": "Thu Nov 26 2020 03:05:17 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "rpdizzle770",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "nerd",
+      "time": "Thu Nov 26 2020 20:04:13 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "nhomebutton13",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "noob",
+      "time": "Fri Nov 27 2020 14:58:19 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "seadoti",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "loser",
+      "time": "Fri Nov 27 2020 17:16:50 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "egirlbriii",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "weird nerd",
+      "time": "Sat Nov 28 2020 17:41:45 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Spyke_dog",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Sat Nov 28 2020 17:59:35 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "koir6",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Sat Nov 28 2020 17:59:38 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "1vanmighty",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "sperg nerd,bitch",
+      "time": "Mon Nov 30 2020 08:48:43 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "sivamanikanta",
+      "bannedby": "briibtw",
+      "channel": "briibtw",
+      "reason": "weirdo",
+      "time": "Tue Dec 01 2020 05:19:07 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "facking",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "guld",
+      "time": "Tue Dec 01 2020 10:33:59 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "JYNXM",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "facking guld",
+      "time": "Tue Dec 01 2020 10:34:19 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "c12k3wtvd9",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Tue Dec 01 2020 15:04:13 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "hzrutgers147",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Tue Dec 01 2020 18:02:12 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "contssupotanin76lser",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "loser",
+      "time": "Tue Dec 01 2020 19:01:01 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "wehlie9999",
+      "bannedby": "ultrahtv",
+      "channel": "ultrahtv",
+      "reason": "sperg",
+      "time": "Wed Dec 02 2020 12:18:10 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "lIazyy",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "idiot",
+      "time": "Fri Dec 04 2020 05:54:29 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "Iiazyy",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "ban evade",
+      "time": "Fri Dec 04 2020 05:58:45 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "FrightFulR6",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "boosted by,cheaters",
+      "time": "Fri Dec 04 2020 05:59:24 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "tofyr6",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "wannabe toty",
+      "time": "Fri Dec 04 2020 05:59:32 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "seflorida4424",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "loser",
+      "time": "Fri Dec 04 2020 15:37:25 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "vaop012345682",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "nerd",
+      "time": "Fri Dec 04 2020 20:33:30 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "justindn",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spork",
+      "time": "Sat Dec 05 2020 09:18:58 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "cluseisontheloose",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spork",
+      "time": "Sat Dec 05 2020 09:19:15 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "hoooooooooooooooobo",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spork",
+      "time": "Sat Dec 05 2020 09:19:26 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "milfdestroyer101",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spork",
+      "time": "Sat Dec 05 2020 09:19:47 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "kai2glizz",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spork",
+      "time": "Sat Dec 05 2020 09:21:00 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "ryaumba",
+      "bannedby": "ultrahtv",
+      "channel": "briibtw",
+      "reason": "spergggggggg",
+      "time": "Sat Dec 05 2020 09:21:09 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "gunnxybtw",
+      "bannedby": "briibtw",
+      "channel": "ultrahtv",
+      "reason": "boosted gold,bitch",
+      "time": "Sat Dec 05 2020 14:37:32 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "bhsmith17176",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "bot",
+      "time": "Mon Dec 07 2020 15:04:01 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    },
+    {
+      "username": "odurant3522",
+      "bannedby": "littlemoosey",
+      "channel": "littlemoosey",
+      "reason": "noob",
+      "time": "Tue Dec 08 2020 16:35:29 GMT+0000 (UTC)",
+      "community": "t35t1n6"
+    }
+  ]
+}
