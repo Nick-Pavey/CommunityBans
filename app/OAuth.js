@@ -14,8 +14,8 @@ app.use(passport.initialize());
 app.use(express.static("./public"));
  
 passport.use(new twitchStrategy({
-    clientID: "098f6bcd4621d373cade4e832627b4f6",
-    clientSecret: "4eb20288afaed97e82bde371260db8d8",
+    clientID: "clientid",
+    clientSecret: "clientsecret",
     callbackURL: "http://127.0.0.1:3000/auth/twitch/callback",
     scope: "user_read"
   },
